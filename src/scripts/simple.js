@@ -5,8 +5,13 @@
 pdfjsLib.GlobalWorkerOptions.workerSrc =
     'src/scripts/pdfjs-3.3.122-dist/build/pdf.worker.js';
 
-var vid = document.getElementById("droneVideo");
+var vid = document.getElementById("steamEngineVideo");
 vid.playbackRate = 10;
+
+
+var vid = document.getElementById("roboticArmVideo");
+vid.playbackRate = 1;
+
 
 var dummyPdf = "http://localhost:8080"
 
