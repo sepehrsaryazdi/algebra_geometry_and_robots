@@ -1,4 +1,4 @@
-# maths-behind-machine-learning
+# Algebra, Geometry and Robots Talk Slides
 
 To run backend server, run the following from this folder:
 
