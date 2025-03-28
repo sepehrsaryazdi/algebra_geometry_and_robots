@@ -1,6 +1,6 @@
 # Algebra, Geometry and Robots Talk Slides
 
-This repository will run the interactive and dynamic talk titled "Algebra, Geometry and Robots" and presented by Sepehr Saryazdi at the University of Sydney Mathematics Society (SUMS). A recording of the presentation is available [here](https://drive.google.com/file/d/1TEoP5Aoc57DKB4ptKwzoWVb-TJAKnSIO/view?usp=sharing).
+This repository will run the interactive and dynamic talk titled "Algebra, Geometry and Robots" and presented by Sepehr Saryazdi at the University of Sydney Mathematics Society (SUMS). A recording of the presentation is available [here](https://drive.google.com/file/d/1TEoP5Aoc57DKB4ptKwzoWVb-TJAKnSIO/view?usp=sharing). There were some typos in the slides during the presentation, which are fixed in this version.
 
 To run backend server, run the following from this folder:
 
