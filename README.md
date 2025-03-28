@@ -9,7 +9,7 @@ To run backend server, run the following from this folder:
 Open `index.html` for the slides. This is what should appear on the HTML page. Use left/right arrow keys to navigate between slides.
 
 <p align="center">
-<img src="readme_pictures/title_page.png" height="200">
+<img src="readme_images/title_page.png" height="200">
 </p>
 
 
@@ -17,7 +17,7 @@ If the HTML page is working correctly, interactive components should appear:
 
 
 <p align="center">
-<img src="readme_pictures/interactive_component.png" height="200">
+<img src="readme_images/interactive_component.png" height="200">
 </p>
 
 
