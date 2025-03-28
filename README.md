@@ -6,7 +6,9 @@ A recording of the presentation is available [here](https://drive.google.com/fil
 
 To run backend server, run the following from this folder:
 
-`python3 localServer/server.py`
+```
+python3 localServer/server.py
+```
 
 Open `index.html` for the slides. This is what should appear on the HTML page. Use left/right arrow keys to navigate between slides.
 
